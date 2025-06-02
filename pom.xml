@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.6.0</version> <!-- Compatível com PostgreSQL 16 -->
+			<version>42.7.3</version> <!-- Compatível com PostgreSQL 16 -->
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
